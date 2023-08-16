@@ -14,4 +14,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com ♥ by [birobirobiro](https://birobirobiro.dev)
+Feito com ♥ by [alissonandrade](https://github.com/alissonandrade2020/)
